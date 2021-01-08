@@ -7,4 +7,5 @@ I am the most awesome applicant ever and you should definitely accept me to your
 
 ## Contact Info
 **Email:**
+
 **Phone:**
