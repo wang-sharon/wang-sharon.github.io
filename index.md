@@ -6,5 +6,5 @@ I am the most awesome applicant ever and you should definitely accept me to your
 * [Diversity Statement](link to diversity statement)
 
 ## Contact Info
-*Email:*
-*Phone:*
+**Email:**
+**Phone:**
