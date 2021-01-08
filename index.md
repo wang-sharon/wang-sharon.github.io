@@ -1,5 +1,4 @@
-# Sharon Wang's Super Awesome home page
-## About Me
+# About Me
 I am the most awesome applicant ever and you should definitely accept me to your program. Also, my sister is the best.
 
 ## Application Materials
