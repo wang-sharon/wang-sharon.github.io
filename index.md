@@ -7,6 +7,6 @@ I am the most awesome applicant ever and you should definitely accept me to your
 * [Broader Impact Statement](wangsharon-broader-impact.pdf)
 
 ## Contact Info
-**Email:** sharonwang.ssw@gmail.com (mailto:sharonwang.ssw@gmail.com)
+**Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
 
 **Phone:** \(812\)-390-0296
