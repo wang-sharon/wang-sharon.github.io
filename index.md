@@ -1,12 +1,20 @@
 # About Me
-I am the most awesome applicant ever and you should definitely accept me to your program. Also, my sister is the best.
+I am a  researcher interested in interpersonal and gender-based violence. Drawing concepts from intersectional feminism and social justice, I aim to examine the ways that contextual and individual factors intersectionally influence the experience and outcomes of sexual violence and intimate partner violence.
 
-## Application Materials
-* [CV](wangsharon-cv.pdf)
-* [Research Statement](wangsharon-personal.pdf)
-* [Broader Impact Statement](wangsharon-broader-impact.pdf)
+I am currently a research specialist in the [Social and Behavioral Development Lab](https://lilab.waisman.wisc.edu/) at the Waisman Center \(University of Wisconsin-Madison\), working with [Dr. James Li](https://lilab.waisman.wisc.edu/staff/li-james/).
+
+Occasionally, I like to travel, paint, and brag about my [cat](https://www.instagram.com/juno_thefloof/).
 
 ## Contact Info
 **Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
 
 **Phone:** \(812\)-390-0296
+
+**Twitter:** [@\_wangsharon](https://twitter.com/\_wangsharon)
+
+## Get to Know Me
+* [CV](wangsharon-cv.pdf)
+* [Research Statement](wangsharon-personal.pdf)
+* [Broader Impact Statement](wangsharon-broader-impact.pdf)
+
+
