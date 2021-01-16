@@ -5,7 +5,7 @@ I am currently a research specialist in the [Social and Behavioral Development L
 
 Occasionally, I like to travel, paint, and brag about my [cat](https://www.instagram.com/juno_thefloof/).
 
-## Contact Info
+## Contact 
 **Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
 
 **Phone:** \(812\) 390-0296
