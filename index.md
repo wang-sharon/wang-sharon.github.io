@@ -8,7 +8,7 @@ Occasionally, I like to travel, paint, and brag about my [cat](https://www.insta
 ## Contact Info
 **Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
 
-**Phone:** \(812\)-390-0296
+**Phone:** \(812\) 390-0296
 
 **Twitter:** [@\_wangsharon](https://twitter.com/\_wangsharon)
 
