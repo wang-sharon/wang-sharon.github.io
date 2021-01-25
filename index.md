@@ -3,7 +3,7 @@ I am a  researcher interested in interpersonal and gender-based violence. Drawin
 
 I am currently a research specialist in the [Social and Behavioral Development Lab](https://lilab.waisman.wisc.edu/) at the Waisman Center \(University of Wisconsin-Madison\), working with [Dr. James Li](https://lilab.waisman.wisc.edu/staff/li-james/).
 
-Occasionally, I like to travel, paint, and brag about my [cat](https://www.instagram.com/juno_thefloof/).
+Occasionally, I like to travel, paint, and obsess over my [cat](https://www.instagram.com/juno_thefloof/).
 
 ## Contact 
 **Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
@@ -15,6 +15,6 @@ Occasionally, I like to travel, paint, and brag about my [cat](https://www.insta
 ## Get to Know Me
 * [CV](wangsharon-cv.pdf)
 * [Research Statement](wangsharon-personal.pdf)
-* [Broader Impact Statement](wangsharon-broader-impact.pdf)
+* [Broader Impact Statement](wangsharon-broader-impacts.pdf)
 
 
