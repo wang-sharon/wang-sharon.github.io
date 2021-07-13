@@ -19,4 +19,4 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 
 ## Research
 *Presentations*
-  * **Wang, S. S.** & Li, J. J. (2020, August). [Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes] (wangsharon-APAposter2020.pdf). Poster presented at the American Psychological Association convention in Washington, D.C.
+  * **Wang, S. S.** & Li, J. J. (2020, August). [Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes](wangsharon-APAposter2020.pdf). Poster presented at the American Psychological Association convention in Washington, D.C.
