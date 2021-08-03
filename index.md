@@ -1,7 +1,7 @@
 # About Me
-I am a researcher interested in interpersonal and gender-based violence. Drawing concepts from intersectional feminism and social justice, I aim to examine the ways that individual and contextual factors intersectionally influence the experience and outcomes of sexual violence and intimate partner violence.
+I am a researcher interested in interpersonal and gender-based violence. Drawing concepts from intersectional feminism and social justice, I aim to examine the ways that individual and contextual factors intersectionally influence the experience and outcomes of sexual violence and intimate partner violence, especially in marginalized populations.
 
-I am an incoming clinical psychology PhD student at the University of Washington where I will be advised by [Dr. William H. George](https://psych.uw.edu/directory/2743). Previously, I was a research specialist in the [Social and Behavioral Development Lab](https://lilab.waisman.wisc.edu/) at the Waisman Center \(University of Wisconsin-Madison\), working with Dr. James Li.
+I am an incoming clinical psychology PhD student at the University of Washington where I will be advised by [Dr. William H. George](https://psych.uw.edu/directory/2743). Previously, I was a lab manager in the [Social and Behavioral Development Lab](https://lilab.waisman.wisc.edu/) at the Waisman Center \(University of Wisconsin-Madison\), working with Dr. James Li.
 
 In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.instagram.com/juno_thefloof/).
 
