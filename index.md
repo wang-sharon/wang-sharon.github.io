@@ -1,7 +1,7 @@
 # About Me
-I am a  researcher interested in interpersonal and gender-based violence. Drawing concepts from intersectional feminism and social justice, I aim to examine the ways that individual and contextual factors intersectionally influence the experience and outcomes of sexual violence and intimate partner violence.
+I am a researcher interested in interpersonal and gender-based violence. Drawing concepts from intersectional feminism and social justice, I aim to examine the ways that individual and contextual factors intersectionally influence the experience and outcomes of sexual violence and intimate partner violence.
 
-I am currently a research specialist in the [Social and Behavioral Development Lab](https://lilab.waisman.wisc.edu/) at the Waisman Center \(University of Wisconsin-Madison\), working with [Dr. James Li](https://lilab.waisman.wisc.edu/staff/li-james/).
+I am an incoming clinical psychology PhD student at the University of Washington where I will be advised by [Dr. William H. George](https://psych.uw.edu/directory/2743). Previously, I was a research specialist in the [Social and Behavioral Development Lab](https://lilab.waisman.wisc.edu/) at the Waisman Center \(University of Wisconsin-Madison\), working with Dr. James Li.
 
 In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.instagram.com/juno_thefloof/).
 
@@ -13,10 +13,13 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 **Twitter:** [@\_wangsharon](https://twitter.com/\_wangsharon)
 
 ## Get to Know Me
-* [CV](wangsharon-cv.pdf)
+* [CV](wangsharon-cv-8.2021.pdf)
 * [Research Statement](wangsharon-personal.pdf)
 * [Broader Impact Statement](wangsharon-broader-impacts.pdf)
 
 ## Research
+*Publications*
+  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). [Examining multi-domain resilience among maltreated and non-maltreated youths: A prospective longitudinal study](https://psyarxiv.com/5zt3f/). Preprint doi: 10.31234/osf.io/5zt3f.
+
 *Presentations*
   * **Wang, S. S.** & Li, J. J. (2020, August). [Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes](wangsharon-APAposter2020.pdf). Poster presented at the American Psychological Association convention in Washington, D.C.
