@@ -19,7 +19,7 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 
 ## Research
 *Publications*
-  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). [Examining multi-domain resilience among maltreated and non-maltreated youths: A prospective longitudinal study](https://psyarxiv.com/5zt3f/). Preprint doi: 10.31234/osf.io/5zt3f.
+  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). [Examining multi-domain resilience among maltreated and non-maltreated youths: A prospective longitudinal study](https://psyarxiv.com/5zt3f/). Preprint doi: 10.31234/osf.io/5zt3f
 
 *Presentations*
   * **Wang, S. S.** & Li, J. J. (2020, August). [Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes](wangsharon-APAposter2020.pdf). Poster presented at the American Psychological Association convention in Washington, D.C.
