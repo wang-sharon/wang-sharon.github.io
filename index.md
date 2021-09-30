@@ -14,8 +14,8 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 
 ## Get to Know Me
 * [CV](wangsharon-cv-9.2021.pdf)
-* [Research Statement](wangsharon-personal.pdf)
-* [Broader Impact Statement](wangsharon-broader-impacts.pdf)
+* Research Statement (*"under construction"*)
+* Broader Impact Statement (*"under construction"*)
 
 ## Research
 *Publications*
