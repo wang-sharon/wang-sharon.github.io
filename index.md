@@ -8,8 +8,6 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 ## Contact 
 **Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
 
-**Phone:** \(812\) 390-0296
-
 **Twitter:** [@\_wangsharon](https://twitter.com/\_wangsharon)
 
 ## Get to Know Me
