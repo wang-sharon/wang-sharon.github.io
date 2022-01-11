@@ -11,7 +11,7 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 **Twitter:** [@\_wangsharon](https://twitter.com/\_wangsharon)
 
 ## Get to Know Me
-* [CV](wangsharon-cv-9.2021.pdf)
+* [CV](wangsharon-cv-1.2022.pdf)
 * Research Statement (*"under construction"*)
 * Broader Impact Statement (*"under construction"*)
 
