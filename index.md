@@ -17,7 +17,9 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 
 ## Research
 *Publications*
-  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). [Examining multi-domain resilience among maltreated and non-maltreated youths: A prospective longitudinal study](https://psyarxiv.com/5zt3f/). Preprint doi: 10.31234/osf.io/5zt3f
+  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). *[Examining multi-domain resilience among maltreated and non-maltreated youths: A prospective longitudinal study](https://psyarxiv.com/5zt3f/)*. Preprint doi: 10.31234/osf.io/5zt3f
 
 *Presentations*
-  * **Wang, S. S.** & Li, J. J. (2020, August). [Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes](wangsharon-APAposter2020.pdf). Poster presented at the American Psychological Association convention in Washington, D.C.
+  * Gleason, N., **Wang, S. S.**, Smith, L., Gulati, N. K., Gasser, M. L., Rham-Knigge, R. L., Miner, M. H., Coleman, E., George, W. H. (2022, July). *All gas no brakes? The relationship between compulsive sexual behavior and HIV sexual risk behavior: A review of the literature and framework for future research* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
+  * Smith, L., **Wang, S. S.**, Gleason, N., Gulati, N. K., Gasser, M. L., George, W. H. (2022, July). *Understanding sexual aggression perpetration in LGB communities: A literature review & call to action* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
+  * **Wang, S. S.** & Li, J. J. (2020, August). *[Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes](wangsharon-APAposter2020.pdf)* \[Poster]. American Psychological Association Convention, Washington, D.C.
