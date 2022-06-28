@@ -8,7 +8,7 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 ## Contact 
 **Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
 
-**Twitter:** [@\_wangsharon](https://twitter.com/\_wangsharon)
+**Twitter:** [@\_wangsharon](https://twitter.com/_wangsharon)
 
 ## Get to Know Me
 * [CV](wangsharon-cv-1.2022.pdf)
