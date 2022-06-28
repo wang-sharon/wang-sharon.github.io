@@ -17,7 +17,7 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 
 ## Research
 *Publications*
-  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). *[Examining multi-domain resilience among maltreated and non-maltreated youths: A prospective longitudinal study](https://psyarxiv.com/5zt3f/)*. Preprint doi: 10.31234/osf.io/5zt3f
+  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). *[A prospective longitudinal study of multi-domain resilience among maltreated and non-maltreated youths](https://psyarxiv.com/5zt3f/)*. Preprint doi: 10.31234/osf.io/5zt3f
 
 *Presentations*
   * Gleason, N., **Wang, S. S.**, Smith, L., Gulati, N. K., Gasser, M. L., Rham-Knigge, R. L., Miner, M. H., Coleman, E., George, W. H. (2022, July). *All gas no brakes? The relationship between compulsive sexual behavior and HIV sexual risk behavior: A review of the literature and framework for future research* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
