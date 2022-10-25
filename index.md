@@ -28,4 +28,4 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 </br>
 </br>
 
-*[Curriculum Vitae](wangsharon-cv-1.2022.pdf)*
+***[Curriculum Vitae](wangsharon-cv-1.2022.pdf)***
