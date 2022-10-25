@@ -13,8 +13,8 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 ## Research
 *Current Projects*
  * Sexual Assault and Identity Disruption (SAID) *\*coming soon\**
- * Resilience as a Moderator (ResMod): (1) Examine the association between number of sexual violence victimization experiences and post-traumatic stress symptoms; (2) Explore whether resilience factors (e.g., emotion regulation, mindfulness, coping strategies) moderate this association 
- * Maltreatment & Depression (MaltDep): (1) Compare latent growth trajectories of depression in individuals with and without maltreatment histories; (2) Examine how individuals with maltreatment histories fare relative to their counterparts without maltreatment histories on adult-measured outcomes 
+ * [Resilience as a Moderator (ResMod)](https://osf.io/bj5ck): (1) Examine the association between number of sexual violence victimization experiences and post-traumatic stress symptoms; (2) Explore whether resilience factors (e.g., emotion regulation, mindfulness, coping strategies) moderate this association 
+ * [Maltreatment & Depression (MaltDep)](https://osf.io/zn3t6): (1) Compare latent growth trajectories of depression in individuals with and without maltreatment histories; (2) Examine how individuals with maltreatment histories fare relative to their counterparts without maltreatment histories on adult-measured outcomes 
 
 *Publications*
   * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). *[A prospective longitudinal study of multi-domain resilience among maltreated and non-maltreated youths](https://psyarxiv.com/5zt3f/)*. Preprint doi: 10.31234/osf.io/5zt3f
@@ -28,4 +28,4 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 </br>
 </br>
 
-***[Curriculum Vitae](wangsharon-cv-1.2022.pdf)***
+***[Curriculum Vitae](wangsharon-cv-10.2022.pdf)***
