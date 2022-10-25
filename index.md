@@ -24,8 +24,8 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
   * Smith, L., Gleason, N., Gulati, N. K., Gasser, M. L., **Wang, S. S.**, George, W. H. (2022, July). *Understanding sexual aggression perpetration in LGB communities: A literature review & call to action* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
   * **Wang, S. S.** & Li, J. J. (2020, August). *[Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes](wangsharon-APAposter2020.pdf)* \[Poster]. American Psychological Association Convention, Washington, D.C.
 
-</br>
-</br>
-</br>
+<br>
+<br>  
+<br>   
 
 ***[Curriculum Vitae](wangsharon-cv-10.2022.pdf)***
