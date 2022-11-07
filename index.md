@@ -20,6 +20,7 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
  * [Elissa Redmiles](https://elissaredmiles.com/) (Max Planck Institute for Software Systems) & [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
  * Neil Gleason (University of Washington)
  * Lauren Smith (University of Washington)
+ * [James Li](https://lilab.waisman.wisc.edu/staff/li-james/) & [Kate Walsh](https://psych.wisc.edu/staff/walsh-kate/) (Univeristy of Wisconsin-Madison)
 
 ### Publications
   * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). *[A prospective longitudinal study of multi-domain resilience among maltreated and non-maltreated youths](https://psyarxiv.com/5zt3f/)*. Preprint doi: 10.31234/osf.io/5zt3f
