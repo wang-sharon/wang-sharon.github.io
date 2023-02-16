@@ -14,16 +14,19 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 *Current Projects*
  * Sexual Assault and Identity Disruption (SAID) *\*coming soon\**
  * [Resilience as a Moderator (ResMod)](https://osf.io/bj5ck): (1) Examine the association between number of sexual violence victimization experiences and post-traumatic stress symptoms; (2) Explore whether resilience factors (e.g., emotion regulation, mindfulness, coping strategies) moderate this association 
- * [Maltreatment & Depression (MaltDep)](https://osf.io/zn3t6): (1) Compare latent growth trajectories of depression in individuals with and without maltreatment histories; (2) Examine how individuals with maltreatment histories fare relative to their counterparts without maltreatment histories on adult-measured outcomes 
+
+*Past Projects*
+ * [Maltreatment & Depression (MaltDep)](https://osf.io/zn3t6): (1) Compared latent growth trajectories of depression in individuals with and without maltreatment histories; (2) Examined how individuals with maltreatment histories fare relative to their counterparts without maltreatment histories on adult-measured outcomes
+     * Collaborators: [James Li](https://lilab.waisman.wisc.edu/staff/li-james/) & [Kate Walsh](https://psych.wisc.edu/staff/walsh-kate/) (University of Wisconsin-Madison)
+ 
 
 *Collaborators*
  * [Elissa Redmiles](https://elissaredmiles.com/) (Max Planck Institute for Software Systems) & [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
  * [Neil Gleason](https://depts.washington.edu/whgweb/grad-students/neil-gleason/) (University of Washington)
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
- * [James Li](https://lilab.waisman.wisc.edu/staff/li-james/) & [Kate Walsh](https://psych.wisc.edu/staff/walsh-kate/) (Univeristy of Wisconsin-Madison)
 
 ### Publications
-  * **Wang, S. S.**, Walsh, K., Li, J. J. (under review). *[A prospective longitudinal study of multi-domain resilience among maltreated and non-maltreated youths](https://psyarxiv.com/5zt3f/)*. Preprint doi: 10.31234/osf.io/5zt3f
+  * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). [A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories](https://doi.org/10.1017/S0954579423000032). *Development and Psychopathology*, 1-15. doi:10.1017/S0954579423000032
 
 ### Presentations
   * Gleason, N., **Wang, S. S.**, Smith, L., Gulati, N. K., Gasser, M. L., Rham-Knigge, R. L., Miner, M. H., Coleman, E., George, W. H. (2022, July). *All gas no brakes? The relationship between compulsive sexual behavior and HIV sexual risk behavior: A review of the literature and framework for future research* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
@@ -34,4 +37,4 @@ In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.
 <br>  
 <br>   
 
-***[Curriculum Vitae](wangsharon-cv-10.2022.pdf)***
+***[Curriculum Vitae](wangsharon-cv-02.2023.pdf)***
