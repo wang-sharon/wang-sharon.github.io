@@ -1,9 +1,7 @@
 # About Me
-I am a researcher interested in interpersonal and gender-based violence. Drawing concepts from intersectional feminism and social justice, I aim to examine the ways that individual and contextual factors intersectionally influence the experience and outcomes of sexual violence and intimate partner violence, especially in underrepresented populations.
+I am a researcher with a passion for exploring the complex dynamics of gender-based violence. Drawing concepts from intersectional feminism and social justice, my work centers around examining the interplay of individual and contextual factors that contribute to the experience and outcomes of gender-based violence, particularly in underrepresented populations. I employ a diverse range of research methods, including data science, quantitative and qualitative psychology, and statistics. Through my work, I hope to contribute to a greater understanding of the nuanced and multifaceted factors that perpetuate gender-based violence. Ultimately, my goal is to create personalized, innovative solutions for survivors of gender-based violence.
 
-Currently, I am a clinical psychology PhD student at the University of Washington, advised by [Dr. William H. George](https://psych.uw.edu/directory/2743) and [Dr. Mary Larimer](https://psych.uw.edu/directory/2697). Previously, I was a lab manager in the [Social and Behavioral Development Lab](https://lilab.waisman.wisc.edu/) at the Waisman Center \(University of Wisconsin-Madison\), working with Dr. James Li.
-
-In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.instagram.com/juno_thefloof/).
+Currently, I am a clinical psychology PhD student at the University of Washington, advised by [Dr. William H. George](https://psych.uw.edu/directory/2743) and [Dr. Mary Larimer](https://psych.uw.edu/directory/2697). In my spare time, I like to travel, hike, paint, and annoy my [cat](https://www.instagram.com/juno_thefloof/).
 
 ## Contact 
 **Email:** [sharonwang.ssw@gmail.com](mailto:sharonwang.ssw@gmail.com)
