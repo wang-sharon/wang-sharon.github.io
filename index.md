@@ -19,6 +19,7 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
  
 
 *Collaborators*
+ * [Irene Zhang](https://irenezhang.net/) (Microsoft Research)
  * [Elissa Redmiles](https://elissaredmiles.com/) (Max Planck Institute for Software Systems) & [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
  * [Neil Gleason](https://depts.washington.edu/whgweb/grad-students/neil-gleason/) (University of Washington)
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
@@ -27,6 +28,8 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
   * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). [A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories](https://doi.org/10.1017/S0954579423000032). *Development and Psychopathology*, 1-15. doi:10.1017/S0954579423000032
 
 ### Presentations
+  * **Wang, S. S.**, Blayney, J. A., Stappenbeck, C. A., Jaffe, A. E., George, W. H., & Davis, K. C. (2023, November). *The role of resilience in sexual assault revictimization* \[Oral presentation]. The Society for the Scientific Study of Sexuality Annual Conference, New Orleans, LA, United States.
+  * Smith, L., Gleason, N., **Wang, S.**, Vittone, A., George, W. H., Neilson, E. C. (2023, June). *Alcohol’s effects on sexual perception following non-consent cues* \[Poster]. Research Society on Alcohol Annual Scientific Meeting, Bellevue, WA, United States.
   * Gleason, N., **Wang, S. S.**, Smith, L., Gulati, N. K., Gasser, M. L., Rham-Knigge, R. L., Miner, M. H., Coleman, E., George, W. H. (2022, July). *All gas no brakes? The relationship between compulsive sexual behavior and HIV sexual risk behavior: A review of the literature and framework for future research* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
   * Smith, L., Gleason, N., Gulati, N. K., Gasser, M. L., **Wang, S. S.**, George, W. H. (2022, July). *Understanding sexual aggression perpetration in LGB communities: A literature review & call to action* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
   * **Wang, S. S.** & Li, J. J. (2020, August). *[Trajectories of risk and resilience among maltreated youth: Prospective associations with adult social outcomes](wangsharon-APAposter2020.pdf)* \[Poster]. American Psychological Association Convention, Washington, D.C.
@@ -35,4 +38,4 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
 <br>  
 <br>   
 
-***[Curriculum Vitae](wangsharon-cv-02.2023.pdf)***
+***[Curriculum Vitae](wangsharon-cv-07.2023.pdf)***
