@@ -11,7 +11,8 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
 ## Research
 *Current Projects*
  * Sexual Assault and Identity Disruption (SAID) *\*coming soon\**
- * [Resilience as a Moderator (ResMod)](https://osf.io/bj5ck): (1) Examine the association between number of sexual violence victimization experiences and post-traumatic stress symptoms; (2) Explore whether resilience factors (e.g., emotion regulation, mindfulness, coping strategies) moderate this association 
+ * [Resilience as a Moderator (ResMod)](https://osf.io/bj5ck): (1) Examine the association between number of sexual violence victimization experiences and post-traumatic stress symptoms; (2) Explore whether resilience factors (e.g., emotion regulation, mindfulness, coping strategies) moderate this association
+     * Collaborators: [Jessica Blayney](https://jessicablayney.com/), [Cynthia Stappenbeck](http://sites.gsu.edu/stappenbeck-lab/dr-stappenbeck/), [Anna Jaffe](https://psychiatry.uw.edu/profile/anna-jaffe/), & [Kelly Cue Davis](https://search.asu.edu/profile/3175330)
 
 *Past Projects*
  * [Maltreatment & Depression (MaltDep)](https://osf.io/zn3t6): (1) Compared latent growth trajectories of depression in individuals with and without maltreatment histories; (2) Examined how individuals with maltreatment histories fare relative to their counterparts without maltreatment histories on adult-measured outcomes
