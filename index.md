@@ -20,7 +20,7 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
  
 
 *Collaborators*
- * [Irene Zhang](https://irenezhang.net/) (Microsoft Research)
+ * [Dan Ports](https://drkp.net/) & [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/) (Microsoft Research) & [Giulia Lausi](https://research.uniroma1.it/researcher/c6b16018d3a47f07cd595d1f63d4418c31306e9336fa0fe1d348a652) (“Sapienza” Università di Roma)
  * [Elissa Redmiles](https://elissaredmiles.com/) (Max Planck Institute for Software Systems) & [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
  * [Neil Gleason](https://depts.washington.edu/whgweb/grad-students/neil-gleason/) (University of Washington)
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
