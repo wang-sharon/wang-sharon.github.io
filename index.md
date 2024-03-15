@@ -26,8 +26,8 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
 
 ### Publications
-  * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (under review). ["Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse](https://arxiv.org/abs/2403.04659). https://doi.org/10.48550/arXiv.2403.04659
-  * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). [A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories](https://doi.org/10.1017/S0954579423000032). *Development and Psychopathology*, 1-15. https://doi.org/10.1017/S0954579423000032
+  * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (under review). "Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse. https://doi.org/10.48550/arXiv.2403.04659
+  * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories. *Development and Psychopathology*, 1-15. https://doi.org/10.1017/S0954579423000032
 
 ### Presentations
   * **Wang, S. S.**, Blayney, J. A., Stappenbeck, C. A., Jaffe, A. E., George, W. H., & Davis, K. C. (2023, November). *[The role of resilience in sexual assault revictimization](SSSS_presentation.pdf)* \[Oral presentation]. The Society for the Scientific Study of Sexuality Annual Conference, New Orleans, LA, United States.
