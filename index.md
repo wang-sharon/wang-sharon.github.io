@@ -1,5 +1,5 @@
 # About Me
-I am a researcher with a passion for exploring the complex dynamics of gender-based violence. Drawing concepts from intersectional feminism and social justice, my work centers around examining the interplay of individual and contextual factors that contribute to the experience and outcomes of sexual violence and intimate partner violence, particularly in underrepresented populations. I employ a diverse range of research methods, including data science, quantitative and qualitative psychology, and statistics. Through my work, I hope to contribute to a greater understanding of the nuanced and multifaceted factors that perpetuate gender-based violence. Ultimately, my goal is to create personalized, innovative solutions for victim-survivors of gender-based violence.
+I am a researcher with a passion for exploring the complex dynamics of gender-based violence. Drawing concepts from intersectional feminism and social justice, my work centers around examining the interplay of individual and contextual factors that contribute to the experience and outcomes of sexual violence and intimate partner violence, particularly in underrepresented populations. I employ a diverse range of research methods, including data science, quantitative and qualitative psychology, and statistics. Through my work, I hope to contribute to a greater understanding of the nuanced and multifaceted factors that perpetuate gender-based violence and its associated sequelae. Ultimately, my goal is to create personalized, innovative solutions for victim-survivors so that suffering is no longer the default outcome.
 
 Currently, I am a clinical psychology PhD student at the University of Washington, advised by [Dr. William H. George](https://psych.uw.edu/directory/2743) and [Dr. Mary Larimer](https://psych.uw.edu/directory/2697). I am also mentored by [Dr. Jessica Blayney](https://jessicablayney.com/) and [Dr. Anna Jaffe](https://psychiatry.uw.edu/profile/anna-jaffe/). In my spare time, I like to travel, hike, ice skate, knit, and annoy my [cat](https://www.instagram.com/juno_thefloof/).
 
@@ -21,12 +21,12 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
 
 *Collaborators*
  * [Dan Ports](https://drkp.net/) & [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/) (Microsoft Research) & [Giulia Lausi](https://research.uniroma1.it/researcher/c6b16018d3a47f07cd595d1f63d4418c31306e9336fa0fe1d348a652) (“Sapienza” Università di Roma)
- * [Elissa Redmiles](https://elissaredmiles.com/) (Max Planck Institute for Software Systems) & [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
+ * [Elissa Redmiles](https://elissaredmiles.com/) (Georgetown) & [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
  * [Neil Gleason](https://depts.washington.edu/whgweb/grad-students/neil-gleason/) (University of Washington)
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
 
 ### Publications
-  * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (under review). ["Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse](https://arxiv.org/abs/2403.04659). https://doi.org/10.48550/arXiv.2403.04659
+  * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (2024). ["Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse](https://arxiv.org/abs/2403.04659). 33rd USENIX Security Symposium (USENIX Security 24), 55–72. https://www.usenix.org/conference/usenixsecurity24/presentation/qin
   * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). [A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories](https://doi.org/10.1017/S0954579423000032). *Development and Psychopathology*, 1-15. https://doi.org/10.1017/S0954579423000032
 
 ### Presentations
