@@ -11,10 +11,10 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
 ## Research
 *Current Projects*
  * Meaning-making of sexual victimization labeling, self-blame, and substance use (MOSS) *\*coming soon\**
- * [Resilience as a Moderator (ResMod)](https://osf.io/bj5ck): (1) Examine the association between number of sexual violence victimization experiences and post-traumatic stress symptoms; (2) Explore whether resilience factors (e.g., emotion regulation, mindfulness, coping strategies) moderate this association
-     * Collaborators: [Jessica Blayney](https://jessicablayney.com/), [Cynthia Stappenbeck](http://sites.gsu.edu/stappenbeck-lab/dr-stappenbeck/), [Anna Jaffe](https://psychiatry.uw.edu/profile/anna-jaffe/), & [Kelly Cue Davis](https://search.asu.edu/profile/3175330)
 
 *Past Projects*
+ * [Resilience as a Moderator (ResMod)](https://osf.io/bj5ck): (1) Examined the association between victimization timing and post-traumatic stress symptoms; (2) Explored the role of resilience variables (emotion regulation & mindfulness) in this association
+     * Collaborators: [Jessica Blayney](https://jessicablayney.com/), [Anna Jaffe](https://psychiatry.uw.edu/profile/anna-jaffe/), [Cynthia Stappenbeck](http://sites.gsu.edu/stappenbeck-lab/dr-stappenbeck/), & [Kelly Cue Davis](https://search.asu.edu/profile/3175330)
  * [Maltreatment & Depression (MaltDep)](https://osf.io/zn3t6): (1) Compared latent growth trajectories of depression in individuals with and without maltreatment histories; (2) Examined how individuals with maltreatment histories fare relative to their counterparts without maltreatment histories on adult-measured outcomes
      * Collaborators: [James Li](https://lilab.waisman.wisc.edu/staff/li-james/) & [Kate Walsh](https://psych.wisc.edu/staff/walsh-kate/) (University of Wisconsin-Madison)
  
@@ -26,6 +26,7 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
 
 ### Publications
+  * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (under review). [*The Role of Resilience in Sexual Assault Revictimization*](https://doi.org/10.31234/osf.io/52jyr). PsyArXiv. https://doi.org/10.31234/osf.io/52jyr
   * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (2024). ["Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse](https://arxiv.org/abs/2403.04659). 33rd USENIX Security Symposium (USENIX Security 24), 55–72. https://www.usenix.org/conference/usenixsecurity24/presentation/qin
   * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). [A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories](https://doi.org/10.1017/S0954579423000032). *Development and Psychopathology*, 1-15. https://doi.org/10.1017/S0954579423000032
 
