@@ -26,7 +26,7 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
 
 ### Publications
-  * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (under review). [*The Role of Resilience in Sexual Assault Revictimization*](https://doi.org/10.31234/osf.io/52jyr). PsyArXiv. https://doi.org/10.31234/osf.io/52jyr
+  * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (under review). [*The role of resilience in sexual assault revictimization*](https://doi.org/10.31234/osf.io/52jyr). PsyArXiv. https://doi.org/10.31234/osf.io/52jyr
   * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (2024). ["Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse](https://arxiv.org/abs/2403.04659). 33rd USENIX Security Symposium (USENIX Security 24), 55–72. https://www.usenix.org/conference/usenixsecurity24/presentation/qin
   * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). [A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories](https://doi.org/10.1017/S0954579423000032). *Development and Psychopathology*, 1-15. https://doi.org/10.1017/S0954579423000032
 
