@@ -20,17 +20,20 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
  
 
 *Collaborators*
- * [Dan Ports](https://drkp.net/) & [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/) (Microsoft Research) & [Giulia Lausi](https://research.uniroma1.it/researcher/c6b16018d3a47f07cd595d1f63d4418c31306e9336fa0fe1d348a652) (“Sapienza” Università di Roma)
- * [Elissa Redmiles](https://elissaredmiles.com/) (Georgetown) & [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
+ * [Elissa Redmiles](https://elissaredmiles.com/) & [Lucy Qin](https://lucyq.in/) (Georgetown)
+     * Previously: [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
  * [Neil Gleason](https://depts.washington.edu/whgweb/grad-students/neil-gleason/) (University of Washington)
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
 
 ### Publications
-  * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (under review). [*The role of resilience in sexual assault revictimization*](https://doi.org/10.31234/osf.io/52jyr). PsyArXiv. https://doi.org/10.31234/osf.io/52jyr
+  * Zong, Z. Y., **Wang, S. S.**, Patton, E. E., Peddle, A. K., George, W. H., Davis, K. C., & Stappenbeck, C. A. (under review). Sex motives and sex-related drinking motives in women with and without sexual victimization history: A latent profile approach.
+  * Blayney, J. A., **Wang, S. S.**, Mueller, J., Davis, K. C., George, W. H., Bedard-Gilligan, M., & Yim, P. (under review). In the heat-of-the-moment: Incorporating eroticized assessment into sexual risk reduction for women with sexual victimization histories. 
+  * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (under review). The role of resilience in sexual assault revictimization.
   * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (2024). ["Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse](https://arxiv.org/abs/2403.04659). 33rd USENIX Security Symposium (USENIX Security 24), 55–72. https://www.usenix.org/conference/usenixsecurity24/presentation/qin
   * **Wang, S. S.**, Walsh, K., Li, J. J. (2023). [A prospective longitudinal study of multidomain resilience among youths with and without maltreatment histories](https://doi.org/10.1017/S0954579423000032). *Development and Psychopathology*, 1-15. https://doi.org/10.1017/S0954579423000032
 
 ### Presentations
+  * Zong, Z. Y., **Wang, S. S.**, Patton, E. E., Peddle, A. K., George, W. H., Davis, K. C., & Stappenbeck, C. A. (2025, April). *Sex motives and sex-related drinking motives in women with and without sexual victimization history: A latent profile approach* [Poster]. Institute on Violence, Abuse and Trauma (IVAT) 22nd International Summit, Honolulu, HI, United States.
   * **Wang, S. S.**, Blayney, J. A., Stappenbeck, C. A., Jaffe, A. E., George, W. H., & Davis, K. C. (2023, November). *[The role of resilience in sexual assault revictimization](SSSS_presentation.pdf)* \[Oral presentation]. The Society for the Scientific Study of Sexuality Annual Conference, New Orleans, LA, United States.
   * Smith, L., Gleason, N., **Wang, S.**, Vittone, A., George, W. H., Neilson, E. C. (2023, June). *Alcohol’s effects on sexual perception following non-consent cues* \[Poster]. Research Society on Alcohol Annual Scientific Meeting, Bellevue, WA, United States.
   * Gleason, N., **Wang, S. S.**, Smith, L., Gulati, N. K., Gasser, M. L., Rham-Knigge, R. L., Miner, M. H., Coleman, E., George, W. H. (2022, July). *All gas no brakes? The relationship between compulsive sexual behavior and HIV sexual risk behavior: A review of the literature and framework for future research* \[Poster]. International Academy of Sex Research Annual Meeting, Reykjavík, Iceland.
