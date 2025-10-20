@@ -22,10 +22,11 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
 *Collaborators*
  * [Elissa Redmiles](https://elissaredmiles.com/) & [Lucy Qin](https://lucyq.in/) (Georgetown)
      * Previously: [European Sex Workers' Rights Alliance](https://www.eswalliance.org/)
- * [Neil Gleason](https://depts.washington.edu/whgweb/grad-students/neil-gleason/) (University of Washington)
+ * [Neil Gleason](https://thepearl.usc.edu/about/current-members/) (University of Southern California)
  * [Lauren Smith](https://depts.washington.edu/whgweb/grad-students/lauren-smith/) (University of Washington)
 
 ### Publications
+  * Gleason, N., **Wang, S.**, Vittone, A., Smith, L., Conroy, K., & George, W. H. (under review). Why some but not others? Exploring factors that determine whether alcohol intoxication increases sexual risk behavior among men who have sex with men.
   * Zong, Z. Y., **Wang, S. S.**, Patton, E. E., Peddle, A. K., George, W. H., Davis, K. C., & Stappenbeck, C. A. (under review). Sex motives and sex-related drinking motives in women with and without sexual victimization history: A latent profile approach.
   * Blayney, J. A., **Wang, S. S.**, Mueller, J., Davis, K. C., George, W. H., Bedard-Gilligan, M., & Yim, P. (under review). In the heat-of-the-moment: Incorporating eroticized assessment into sexual risk reduction for women with sexual victimization histories. 
   * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (under review). The role of resilience in sexual assault revictimization.
