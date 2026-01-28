@@ -30,7 +30,7 @@ Currently, I am a clinical psychology PhD student at the University of Washingto
   * Blayney, J. A., **Wang, S. S.**, Mueller, J., Davis, K. C., George, W. H., Bedard-Gilligan, M., & Yim, P. (under review). In the heat-of-the-moment: Incorporating eroticized assessment into sexual risk reduction for women with sexual victimization histories.
 
 *Published*
-  * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (in press). The role of resilience in sexual assault revictimization.
+  * **Wang, S. S.**, Blayney, J. A., Jaffe, A. E., Stappenbeck, C. A., George, W. H., & Davis, K. C. (in press). Childhood sexual abuse, adolescent-adult sexual assault, and revictimization: Do emotion regulation and mindfulness buffer associations with post-traumatic stress symptoms?
   * Gleason, N., **Wang, S.**, Vittone, A., Smith, L., Conroy, K., & George, W. H. (in press). Why some but not others? Exploring factors that determine whether alcohol intoxication increases sexual risk behavior among men who have sex with men.
   * Zong, Z. Y., **Wang, S. S.**, Patton, E. E., Peddle, A. K., George, W. H., Davis, K. C., & Stappenbeck, C. A. (in press). Sex motives and sex-related drinking motives in women with and without sexual victimization history: A latent profile approach.
   * Qin, L., Hamilton, V., **Wang, S.**, Aydinalp, Y., Scarlett, M., Redmiles, E. M. (2024). ["Did they consent to that?" Safer digital intimacy via proactive protection against image-based sexual abuse](https://arxiv.org/abs/2403.04659). 33rd USENIX Security Symposium (USENIX Security 24), 55–72. https://www.usenix.org/conference/usenixsecurity24/presentation/qin
